@@ -90,11 +90,23 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Pages',
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/overview',
+              },
+              {
+                label: 'Home',
+                href: 'https://gochapaa.io/',
+              },
+              {
+                label: 'About',
+                href: 'https://gochapaa.io/about',
+              },
+              {
+                label: 'Support',
+                href: 'https://gochapaa.io/support-page',
               },
             ],
           },
@@ -102,16 +114,20 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Linkedin',
+                href: 'https://www.linkedin.com/company/gochapaa/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Telegram',
+                href: 'http://t.me/gochapaa',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'X(Twitter)',
+                href: 'https://twitter.com/i/flow/login?redirect_after_login=%2FGoChapaa',
+              },
+              {
+                label: 'Youtube',
+                href: 'https://www.youtube.com/@Gochapaa',
               },
             ],
           },
@@ -120,7 +136,7 @@ const config = {
             items: [
               {
                 label: 'Blog',
-                to: '/blog',
+                href: 'https://gochapaa.io/blog',
               },
               {
                 label: 'GitHub',
