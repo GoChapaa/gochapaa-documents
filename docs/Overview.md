@@ -2,6 +2,14 @@
 sidebar_position: 1
 ---
 
+
+
+# GOCHAPAA WHITEPAPER
+
+## The Future of Finance for Africa powered by AI and Blockchain
+
+
+
 # Overview
 
 **‘Go’ means to move forward and ‘Chapaa’ is a swahili slang for ‘Money.’ It’s a trending urban terminology started by the young hustlers from the busy and buzzing financial streets of Nairobi.**
