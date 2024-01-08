@@ -10,8 +10,8 @@ sidebar_position: 3
 
 | Syntax      | Description |  |
 | :---:        |    :----:   | :----: |
-| Edward Karani </br> CEO      |  Daniel Song </br> Chief Marketing Officer     |  Reuben Nguyo </br> Technical Lead |
+| <strong> Edward Karani </strong> </br> CEO      |  **Daniel Song** </br> Chief Marketing Officer     |  **Reuben Nguyo** </br> Technical Lead |
 ||||
-| Lisa Wanjiru </br> Marketing Lead | Philip Chege </br> Community Lead | Prof Bitange Ndemo </br> Advisor |
+| **Lisa Wanjiru** </br> Marketing Lead | **Philip Chege** </br> Community Lead | **Prof Bitange Ndemo** </br> Advisor |
 
 </div>
