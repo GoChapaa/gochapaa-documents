@@ -28,4 +28,4 @@ Some of these businesses started to use blockchain and cryptocurrency in order t
 
 # Kenya Population
 
-Kenya’s population is steadily increasing for 10 years and still ongoing • Population of Kenya is very young and the midrange is very strong (1~14; 38%, 15~64; 59%) • Due to the young population, adoption is fast, quick and very sensitive to new trends.
+Kenya’s population is steadily increasing for 10 years and still ongoing • Population of Kenya is very young and the midrange is very strong (1-14; 38%, 15-64; 59%) • Due to the young population, adoption is fast, quick and very sensitive to new trends.
