@@ -40,3 +40,4 @@
 
 .team-table {boder: solid 1px #18C687;
 }
+.team-table thead { display:none; }
