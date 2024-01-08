@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # Disclaimer
 
 This document has been prepared by GoChapaa for informational purpose only. Although the information contained in this document has been obtained from sources which we believes to be reliable, it had not been independently verified and no representation or warranty, express or implied, is made and no responsibility is or will be accepted by us as to or in relation to the accuracy, reliability or completeness of any such information. 
