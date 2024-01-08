@@ -2,9 +2,6 @@
 sidebar_position: 1
 ---
 
-![GoChapaa_Master Logo_Green Navy_RGB](https://github.com/GoChapaa/gochapaa-documents/assets/104560529/53a055ec-d74f-4cfb-a734-93083fe3a429)
-
-
 # GOCHAPAA WHITEPAPER
 
 ## The Future of Finance for Africa powered by AI and Blockchain
@@ -53,3 +50,14 @@ M-Pesa is a branchless banking service; M-Pesa customers can deposit and withdra
 
 ## M-Pesa Market Share - 98% 
 There are now over 184 million active mobile money wallets on the continent in 2022 compared to 161 million accounts in 2021. Safaricom's M-Pesa controls an immense 98% share of the country's mobile money market as of November 2020.
+
+## Current Challenges 
+Below are current challenges that young kenyans face in financial sector:
+
+| Challenges      | Gochapaa Solutions | 
+| :---        |    :----  |
+| Lack of financial services      | GoChapaa is a platform with multiple products offering savings, deposits, send, and payments for lower fees |
+| Remittance expensive and offers no services to overseas workers |  As demand for overseas workers (+2Million Africans in legal status and soon will overtake South Asians) grow so does remittance payments and also a need for servicing their needs at home and abroad |
+| No loans from lack of credit history | AI/ML to create credit ratings. GoChapaa facilitates automated quick loans |
+| Lack of inflation hedge  | Offer global financial products for investments |
+| High barrier for startups | Offer ICOs, STOs, sponsor and accelerate projects for global audience  |
