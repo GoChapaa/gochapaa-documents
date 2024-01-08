@@ -2,6 +2,7 @@
 sidebar_position: 1
 ---
 
+![GoChapaa_Master Logo_Green Navy_RGB](https://github.com/GoChapaa/gochapaa-documents/assets/104560529/53a055ec-d74f-4cfb-a734-93083fe3a429)
 
 
 # GOCHAPAA WHITEPAPER
