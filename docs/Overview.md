@@ -41,3 +41,6 @@ M-Pesa is a branchless banking service; M-Pesa customers can deposit and withdra
 - Save currency in a virtual account (Mshwari) 
 - Transfer currencies between the service and, in some markets like Kenya, a bank account 
 - Borrow money to complete a transaction when short on cash (Fuliza) 
+
+## M-Pesa Market Share - 98% 
+There are now over 184 million active mobile money wallets on the continent in 2022 compared to 161 million accounts in 2021. Safaricom's M-Pesa controls an immense 98% share of the country's mobile money market as of November 2020.
