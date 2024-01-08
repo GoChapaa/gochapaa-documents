@@ -10,4 +10,4 @@ In Kenya, the popularity for mobile payment is higher than carrying a credit car
 
 GoChapaa is a movement by young Kenyans through online communities to transform lives of young Kenyans. It will be the first government licensed solution platform offered to young Kenyans apart from the decaying financial system and offer freedom to put their hard earned money to work for them and not the other way around. Offering direct services to variety of investment opportunities in FX, equities, bonds, and crypto directly from mobile money.
 
-<div class="test-sec"> Hello </div>
+![wallet](https://github.com/GoChapaa/gochapaa-documents/assets/104560529/0f3d9e74-5b5f-4746-8e5f-5bf0873d8fad)
