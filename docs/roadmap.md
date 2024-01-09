@@ -6,7 +6,9 @@ sidebar_position: 5
 ## Gochapaa Development Roadmap 
 
 ***
+
 # 2023
+
 ## Beta Testing 
 Allow focused users to test GoChapaa wallet, get feedback, fix issues, and prepare for wider testing. 
 
@@ -16,8 +18,10 @@ Allow focused users to test GoChapaa wallet, get feedback, fix issues, and prepa
 3. Get feedback on all key functionalities. 
 4. Deploy new releases and get beta users to do further testing.
 
-
-| <span style="color:#18C687;"> Official Launch </span>     | Support for NFTs | Lightning Integration | P2P Roll Out|
+***
+<span style="color:#18C687; font-type:bold; font-size:48px;"> 2024 | Q4 </span>
+***
+| Official Launch      | Support for NFTs | Lightning Integration | P2P Roll Out|
 | :---        |    :---  | :--- | :--- |
 | After beta testing, roll out to all users with a comprehensive marketing campaign.| Add NFT support and create a Web 3 marketplace for GoChapaa users.|Integrate BTC Lightning Network to enable fast, cheap retail micropayments.|Expand GoChapaa ecosystem with P2P service for asset trading. |
 | ACTION PLAN | ACTION PLAN | ACTION PLAN | ACTION PLAN |
