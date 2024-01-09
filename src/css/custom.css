@@ -50,8 +50,12 @@ table tr {border:none;
 .team-table thead {display:none; 
 }
 
-.roadmap-tbl td, th, tr {border:none;
-                     font-size:12px;
+.roadmap-tbl {font-size:12px;
 }
+
+.roadmap-tbl td, th, tr {border:none;
+                    vertical-align: top;
+}
+
 .roadmap-tbl th {color:#18C687;
 }
