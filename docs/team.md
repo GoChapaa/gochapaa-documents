@@ -11,12 +11,10 @@ sidebar_position: 3
 |  | ||
 | :---:        |    :----:   | :----: |
 | <img src="/img/edward.png" /> | <img src="/img/daniel.png" /> | <img src="/img/reuben.png" />|
-|**Edward Karani**        |  **Daniel Song**      |  **Reuben Nguyo** |
-| CEO | Chief Marketing Officer | Technical Lead |
+|**Edward Karani**   <br/> CEO     |  **Daniel Song** <br/>  Chief Marketing Officer   |  **Reuben Nguyo** <br/> Technical Lead|
 | <img src="/img/lisa.png" /> | <img src="/img/philip.png" /> | <img src="/img/ndemo.png" />|
-||||
-| **Lisa Wanjiru** | **Philip Chege** | **Prof Bitange Ndemo**  |
-|Marketing Lead|Community Lead|Advisor|
+| **Lisa Wanjiru** <br/> Marketing Lead| **Philip Chege** <br/> Community Lead| **Prof Bitange Ndemo**  <br/> Advisor|
+
 </div>
 
 
