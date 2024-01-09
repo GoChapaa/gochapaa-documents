@@ -38,4 +38,14 @@ sidebar_position: 5
 |Implement AI tools to enhance user experience and customer service. |Develop and roll out mobile apps for Android and iOS to improve mobility and user experience. |
 | ACTION PLAN | ACTION PLAN |
 |1. Identify AI tool or provider. <br/> 2. Conduct due diligence and onboarding. <br/> 3. Develop interfaces. <br/> 4. Conduct pilot tests before deployment. |1. Design user flows and visual mockups. <br/> 2. Develop user interfaces and integrations. <br/> 3. Thoroughly test internally, including performance and security tests. <br/> 4. Roll out to a limited number of users. <br/> 5. Run a marketing campaign. |
+
+***
+## 2024 | Q3
+***
+
+|Derivatives Trading       |
+| :---        | 
+| Offer derivatives trading with global liquidity by partnering with exchanges and obtaining regulatory licenses.  |
+|ACTION PLAN |
+|1. Partner with global exchanges. <br/> 2. Create liquidity pool. <br/> 3. Obtain regulatory licenses. <br/> 4. Roll out to select users. |
 </div>
