@@ -8,9 +8,10 @@ sidebar_position: 3
 
 <div class="team-table">
 
-|  | <img src="/img/daniel.png" /> ||
+|  | ||
 | :---:        |    :----:   | :----: |
-| <strong> Edward Karani </strong>        |  **Daniel Song**      |  **Reuben Nguyo** |
+|  | <img src="/img/daniel.png" /> ||
+|**Edward Karani**        |  **Daniel Song**      |  **Reuben Nguyo** |
 | CEO | Chief Marketing Officer | Technical Lead |
 ||||
 | **Lisa Wanjiru** | **Philip Chege** | **Prof Bitange Ndemo**  |
