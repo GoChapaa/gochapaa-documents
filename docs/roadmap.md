@@ -19,7 +19,7 @@ Allow focused users to test GoChapaa wallet, get feedback, fix issues, and prepa
 4. Deploy new releases and get beta users to do further testing.
 
 ***
-<span style="color:#18C687; font-type:bold; font-size:48px;"> 2024 | Q4 </span>
+ ## 2024 | Q4 
 ***
 
 <div class="roadmap-tbl">
