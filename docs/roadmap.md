@@ -23,6 +23,7 @@ Allow focused users to test GoChapaa wallet, get feedback, fix issues, and prepa
 ***
 
 <div class="roadmap-tbl">
+ 
 | Official Launch      | Support for NFTs | Lightning Integration | P2P Roll Out|
 | :---        |    :---  | :--- | :--- |
 | After beta testing, roll out to all users with a comprehensive marketing campaign.| Add NFT support and create a Web 3 marketplace for GoChapaa users.|Integrate BTC Lightning Network to enable fast, cheap retail micropayments.|Expand GoChapaa ecosystem with P2P service for asset trading. |
