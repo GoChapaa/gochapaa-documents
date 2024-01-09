@@ -24,8 +24,8 @@ sidebar_position: 3
 
 ||||
 | :---:        |    :----:   | :----: |
-| **Sam Kim**  <br/> Founder | **Dr. Paul Choi** <br/> Co-Founder & Economic Advisor | **JJ Park** <br/> Head of IR & COO|
 | <img src="/img/sam.png" /> | <img src="/img/paul.png" /> | <img src="/img/jj.png" /> |
+| **Sam Kim**  <br/> Founder | **Dr. Paul Choi** <br/> Co-Founder & Economic Advisor | **JJ Park** <br/> Head of IR & COO|
+| <img src="/img/joon.png" /> | <img src="/img/sug.png" /> | <img src="/img/sangjin.png" />|
 | **Joon Cho** <br/> Branding Lead | **Sug Lim** <br/> IR & Project Manager | **Sanjin Hong** <br/> Advisor|
-| <img src="/img/joo.png" />n | <img src="/img/sug.png" /> | <img src="/img/sangjin.png" />|
 </div>
