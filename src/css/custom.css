@@ -49,6 +49,7 @@ table tr {border:none;
 
 .team-table td, th, tr {border:none;
                         background-color:#fff;
+                        padding-right:25px;
 }
 
 .team-table thead {display:none; 
