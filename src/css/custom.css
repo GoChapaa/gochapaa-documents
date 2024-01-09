@@ -40,9 +40,12 @@
 
 table tr {border:none;
 }
-.team-table {width:80%;
-}
+
+.team-table table {width:80%
+                  }
+
 .team-table td, th, tr {border:none;
 }
+
 .team-table thead {display:none; 
 }
