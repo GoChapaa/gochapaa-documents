@@ -9,7 +9,6 @@ sidebar_position: 5
  
 ***
 ## 2023 | Q3
-***
 
 | Beta Testing       |
 | :---        | 
@@ -17,11 +16,8 @@ sidebar_position: 5
 |ACTION PLAN |
 |1. Sign up beta users. <br/> 2. Conduct security and beta testing. <br/> 3. Get feedback on all key functionalities. <br/> 4. Deploy new releases and get beta users to do further testing.|
 
-
 ***
 ## 2024 | Q1
-***
-
  
 | Official Launch      | Support for NFTs | Lightning Integration | P2P Roll Out|
 | :---        |    :---  | :--- | :--- |
@@ -31,7 +27,6 @@ sidebar_position: 5
 
 ***
 ## 2024 | Q2
-***
 
 | AI Integration  | Mobile App Development|
 | :---        |:---        |
@@ -41,7 +36,6 @@ sidebar_position: 5
 
 ***
 ## 2024 | Q3
-***
 
 |Derivatives Trading       |
 | :---        | 
