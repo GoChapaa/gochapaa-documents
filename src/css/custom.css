@@ -53,6 +53,9 @@ table tr {border:none;
 .roadmap-tbl {font-size:12px;
 }
 
+.roadmap-tbl h2 {color:#18C687;
+                }
+
 .roadmap-tbl td, th, tr {border:none;
                     vertical-align: top;
 }
