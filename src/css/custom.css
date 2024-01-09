@@ -38,6 +38,8 @@
   color: #03052B;
 }
 
+.team-table {width:80%;
+}
 .team-table td, th, tr {border:none;
 }
 .team-table thead {display:none; 
