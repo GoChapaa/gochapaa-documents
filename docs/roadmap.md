@@ -5,9 +5,11 @@ sidebar_position: 5
 # The Roadmap
 ## Gochapaa Development Roadmap 
 
+<div class="roadmap-tbl">
+ 
 ***
-
-# 2023
+## 2023 | Q3
+***
 
 ## Beta Testing 
 Allow focused users to test GoChapaa wallet, get feedback, fix issues, and prepare for wider testing. 
@@ -19,10 +21,10 @@ Allow focused users to test GoChapaa wallet, get feedback, fix issues, and prepa
 4. Deploy new releases and get beta users to do further testing.
 
 ***
- ## 2024 | Q4 
+ ## 2024 | Q1
 ***
 
-<div class="roadmap-tbl">
+
  
 | Official Launch      | Support for NFTs | Lightning Integration | P2P Roll Out|
 | :---        |    :---  | :--- | :--- |
