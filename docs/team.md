@@ -8,7 +8,7 @@ sidebar_position: 3
 
 <div class="team-table">
 
-||||
+|  | <img src="/img/daniel.png" /> ||
 | :---:        |    :----:   | :----: |
 | <strong> Edward Karani </strong>        |  **Daniel Song**      |  **Reuben Nguyo** |
 | CEO | Chief Marketing Officer | Technical Lead |
