@@ -38,6 +38,9 @@
   color: #03052B;
 }
 
+table {width:100%;
+      }
+
 table tr {border:none;
 }
 
