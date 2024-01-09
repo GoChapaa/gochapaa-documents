@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # The Team
 
+***
+
 ### KENYAN TEAM
 
 <div class="team-table">
@@ -20,6 +22,7 @@ sidebar_position: 3
 
 </div>
 
+***
 
 ### GLOBAL TEAM
 
