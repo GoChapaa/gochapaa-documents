@@ -38,7 +38,7 @@
   color: #03052B;
 }
 
-table td, table th {border:none;
+.team-table td, th, tr {border:none;
 }
 .team-table thead {display:none; 
 }
