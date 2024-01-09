@@ -49,3 +49,8 @@ table tr {border:none;
 
 .team-table thead {display:none; 
 }
+
+.roadmap-tbl table, tr {border:none;
+}
+.roadmap-tbl th {color:#18C687;
+}
