@@ -14,7 +14,7 @@ sidebar_position: 1
 
 In Kenya, the popularity for mobile payment is higher than carrying a credit card or bank accounts and this trend has been spreading quickly across the African continent for the past 16 years. However, what started as a great innovation has now become a monopoly by gaining 98% market share and has slowly dwindled in innovation and lack users’ demand for more financial freedom such as remittance and investment opportunities. And coupled with devaluation of local currencies, the merit of owning mobile money which yields no interest is losing steam.
 
-GoChapaa is a movement by young Kenyans through online communities to transform lives of young Kenyans. It will be the first government licensed solution platform offered to young Kenyans apart from the decaying financial system and offer freedom to put their hard earned money to work for them and not the other way around. Offering direct services to variety of investment opportunities in FX, equities, bonds, and crypto directly from mobile money.
+GoChapaa is a movement of young Kenyans through online communities to transform lives of young Kenyans. It will be the first government licensed solution platform offered to young Kenyans apart from the decaying financial system and offer freedom to put their hard earned money to work for them and not the other way around. Offering direct services to variety of investment opportunities in FX, equities, bonds, and crypto directly from mobile money.
 
 # Africa Macroeconomics
 
@@ -31,6 +31,9 @@ Africa now accounts for 70% of the world’s $1 trillion mobile money value • 
 Africa is one of the fastest-growing crypto markets in the world, according to Chainalysis, $106 Billion in 2021 and a 30% growth to $130 Billion in 2022 • Business owners in Africa often want to run their businesses on an international scale. 
 
 Some of these businesses started to use blockchain and cryptocurrency in order to grab the international market’s attention and protect businesses against currency devaluation.
+
+![image](https://github.com/GoChapaa/gochapaa-documents/assets/104560529/b2bcdacb-dbc6-4092-8a8b-b21d7fc0954f)
+
 
 ## Kenya Population
 
@@ -50,6 +53,8 @@ M-Pesa is a branchless banking service; M-Pesa customers can deposit and withdra
 
 ## M-Pesa Market Share - 98% 
 There are now over 184 million active mobile money wallets on the continent in 2022 compared to 161 million accounts in 2021. Safaricom's M-Pesa controls an immense 98% share of the country's mobile money market as of November 2020.
+
+![image](https://github.com/GoChapaa/gochapaa-documents/assets/104560529/466ba3fe-53ad-45a8-a8eb-5ee57dd0470f)
 
 ## Current Challenges 
 Below are current challenges that young kenyans face in financial sector:
